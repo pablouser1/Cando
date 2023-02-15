@@ -55,7 +55,7 @@ The project is to implement computer version of Catan board game.
 - Minerva Gomez
 - Pablo Ferreiro
 - Pablo Luis Molina Blanes
-- Rodrigo Carreira Villalta
+- Emilio Rodrigo Carreira Villalta
 - Zuzanna Furtak
 - Agnieszka Lasek
-- Iván Iroslavov Petkov
+- Ivan Iroslavov Petkov
