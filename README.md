@@ -46,7 +46,6 @@ The project is to implement computer version of Catan board game.
 - Javascript with frameworks - for frontend, interface
 - MongoDB - database used to save users’ profiles
 - Coding style: [https://google.github.io/styleguide/javaguide.html](https://google.github.io/styleguide/javaguide.html)
-- Resources : [https://www.scenario.gg](https://www.scenario.gg/) IA for the viodeogame Assets
 
 ## Team:
 
