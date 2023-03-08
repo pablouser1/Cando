@@ -13,7 +13,6 @@ Further information: https://www.catan.com/sites/default/files/2021-06/catan_bas
 - Players build spending resources (wool, grain, lumber, brick and ore) decipted using resource cards;  hills produce brick, forests produce lumber, mountains produce ore, fields produce grain, and pastures produce wool.
 
 ### Rolling the dice
--
 - Each player's turn starts with the rolling of two six-sized dice, this is used to determined which hexes produce resources.
 - Those who have a settlement adjacent to a hex with the number visible in the dice, receive a card of the corresponding resource.
 - Those who have a city adjacent to a hex with the number visible in the dice, receive two cards of the corresponding resource.
