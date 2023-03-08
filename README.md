@@ -4,7 +4,9 @@ The project is to implement computer version of Catan board game.
 
 ## Main rules
 
-- Games is suitable for 3-4 playes
+Further information: https://www.catan.com/sites/default/files/2021-06/catan_base_rules_2020_200707.pdf
+
+- Game is suitable for 3-4 players
 
 ### Rolling the dice
 
