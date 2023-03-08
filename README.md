@@ -17,7 +17,7 @@ Further information: https://www.catan.com/sites/default/files/2021-06/catan_bas
 - Those who have a settlement adjacent to a hex with the number visible in the dice, receive a card of the corresponding resource.
 - Those who have a city adjacent to a hex with the number visible in the dice, receive two cards of the corresponding resource.
 - A robber token is initially placed in the desert.
-    - If the player rolls 7, then the robber is activated, it has to be moved to another hex, which will no longer produce resources until the robber is      moved again to another hex, essentially blocking a resource field.
+    - If any player rolls 7, then the robber is activated, that player must move the token then to another hex, which will no longer produce resources until the robber is moved again to another hex, essentially blocking a resource field.
     - That player may also steal a resource card from any player with a settlement or city adjacent to the robber's new position:
     - If anybody has more than 7 cards, they need to discard half of them (chosen ones).
     e.g. if you have 8 you have to discard 4, however if you have 9 you should discard also 4 cards.
